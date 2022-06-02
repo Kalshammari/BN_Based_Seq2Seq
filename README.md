@@ -23,5 +23,5 @@ The models has been tested running under Python 3.9.7, with the required package
 
 
 **Results Plot**
-![image](https://user-images.githubusercontent.com/100083721/171738583-dec6909c-ed6e-468d-b4c9-caa610d09b81.png)
+![image](https://user-images.githubusercontent.com/100083721/171739258-f44a6349-ce0b-472c-b2a5-45f660ca5cdc.png)
 
