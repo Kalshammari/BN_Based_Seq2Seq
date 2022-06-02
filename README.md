@@ -17,7 +17,11 @@ The models has been tested running under Python 3.9.7, with the required package
 
 
 **Deep sequence to sequence learning model based on batch normalization and Long-Short Term Memory (LSTM) network Forecasting results plot**
+
+
 ![image](https://user-images.githubusercontent.com/100083721/171737089-1003bd34-4e72-4d86-a7d8-eb053dd694cb.png)
 
-**Mode Plot
+
+
+**Model Plot
 ![image](https://user-images.githubusercontent.com/100083721/171737300-14d84bb6-0a8d-4b0e-b8d8-68cdf040ed37.png)
