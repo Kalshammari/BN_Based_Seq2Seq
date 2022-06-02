@@ -1,5 +1,6 @@
-# BN_Based_Seq2Seq
-The code is an implemintation of a deep sequence to sequence learning approach of multivariate time series forecasting of magnetic field parameters of solar events. It is impleminted using Keras and PyTorch
+# Forecasting Multivariate Time Series of Magnetic Field Parameters of Solar Events: A Sequence to Sequence Learning Approach
+
+The code is an implemintation of a deep sequence to sequence learning approach of multivariate time series forecasting of magnetic field parameters of solar events. It is impleminted using Keras and PyTorch.
 
 
 **Overview**
